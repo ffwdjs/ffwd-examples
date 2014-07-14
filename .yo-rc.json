@@ -1,0 +1,10 @@
+{
+  "generator-ffwd": {
+    "projectName": "ffwd-examples",
+    "projectDesc": "desc",
+    "projectVersion": "0.0.1",
+    "projectAuthor": "Valentin Vago <valentin.vago@gmail.com>",
+    "stylesCompiler": "compass",
+    "scriptsCompiler": "requirejs"
+  }
+}

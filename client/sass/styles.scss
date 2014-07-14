@@ -1,0 +1,20 @@
+/*tada*/
+@import "settings";
+
+@import "normalize";
+@import "foundation";
+@import "doc-api";
+
+
+body.home nav.large-3 ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  color: blue;
+}
+
+@media #{$medium-up} {
+  body.home nav.large-3 {
+    margin-top: 87px;
+  }
+}
